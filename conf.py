@@ -19,7 +19,7 @@ SITE_URL = "https://flancia.org/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://flancia.org/"
 BLOG_EMAIL = "1@flancia.org"
-BLOG_DESCRIPTION = "Both a blog and an utopia."  # (translatable)
+BLOG_DESCRIPTION = "A blog, a book, a plan."  # (translatable)
 
 # Nikola is multilingual!
 #
