@@ -10,14 +10,14 @@
 .. status:
 -->
 
-Flancia will be a foundation[^20] established in Switzerland with the following constitution[^201]:
+Flancia will be an entity[^20] established in Switzerland with the following constitution[^201]:
 
-[^20]: Or perhaps a corporation; I am researching what the most appropriate entity would be. [Assuming foundation for now](https://www.cagi.ch/en/ngo/creation-transfer/creating-a-foundation.php).
-[^201]: You can comment on the constitution, or view translations (currently also available in Spanish), in the [Google Docs version](https://docs.google.com/document/d/1lf1wnxNsaZC04SFbWP46A8HMoRJLIpO9ZWw3VoMxoac/edit?usp=sharing)
+[^20]: A foundation, or perhaps a corporation; I am researching what the most appropriate entity would be. [Assuming foundation for now](https://www.cagi.ch/en/ngo/creation-transfer/creating-a-foundation.php).
+[^201]: You can comment inline and view translations (currently also available in Spanish) in the [Google Docs version](https://docs.google.com/document/d/1lf1wnxNsaZC04SFbWP46A8HMoRJLIpO9ZWw3VoMxoac/edit?usp=sharing)
 
   1. Everybody can become part of this foundation, henceforth “Flancia”. Upon enrolling, you get a number and an account in our system.
   2. Each member of Flancia, henceforth “Flancian” or “Flancish”, can choose to partake in the advancement of the goals of the foundation as they see fit; whichever they agree with and care about enough to dedicate resources to (such as time and attention).
-  3. The first goal of Flancia is to build an Agora.
+  3. The first goal of Flancia is to build an [Agora](link://slug/agora).
     1. The first goal of the Agora is to improve on the state of the art in all fields of knowledge that can contribute to the enhancement of human collaboration and cooperation.
     2. The second goal of the Agora is to advance all other facets of knowledge.
     3. The ultimate goal of the Agora is to advance the rational will of its members, as expressed in the Agora through the best available toolset for rational and compassionate discussion and decision making.
