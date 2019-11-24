@@ -10,19 +10,20 @@
 .. status:
 -->
 
-Flancia will be a foundation[^20] established in Switzerland with the following constitution:
+Flancia will be a foundation[^20] established in Switzerland with the following constitution[^201]:
 
-[^20]: Or perhaps a corporation; I am researching what the most appropriate entity would be. Assuming foundation for now.
+[^20]: Or perhaps a corporation; I am researching what the most appropriate entity would be. [Assuming foundation for now](https://www.cagi.ch/en/ngo/creation-transfer/creating-a-foundation.php).
+[^201]: You can comment on the constitution, or view translations (currently also available in Spanish), in the [Google Docs version](https://docs.google.com/document/d/1lf1wnxNsaZC04SFbWP46A8HMoRJLIpO9ZWw3VoMxoac/edit?usp=sharing)
 
-  1. Everybody can become part of this foundation, henceforth "Flancia". Upon enrolling, you get a number and an account in our system. I am number one just because I happen to be the first member. That doesn't mean I get special treatment; everybody has just one vote to begin with.
-  2. Each member of Flancia, henceforth "Flancian" or "Flancish", can choose to partake in the advancement of the goals of the foundation as they see fit; whichever they agree with and care about enough to dedicate resources (such as time and attention) to.
-  3. The first goal of Flancia is to run an [Agora](/agora).
-    1. The first goal of the Agora is to improve on the state of the art in all fields contributing to the enhancement of human collaboration and cooperation.
-    2. The second goal of the Agora is to advance all other knowledge.
-    3. The ultimate goal of the Agora is to otherwise advance the rational will of its members, as expressed in the Agora through the best available system for rational and compassionate discussion and decision making.
-  4. The second goal of Flancia is to use whichever tools available to bring its members to the state of life they most prefer: happiness, ataraxia, enlightenment or any other defined explicitly and rationally.
-  5. The third goal of Flancia is to bring all living entities to the same state, with each entity expressing their will within their capabilities. Starting with humans, and then with any others conscious beings that may join the group.
-  6. The fourth goal of Flancia is to keep itself current, adding and removing goals and places as they most benefit its members and the best available set of rationality: technology, philosophy and ethics. The constitution of Flancia, its Agora and any other of the foundation's systems and places can be amended when Flancians deem it necessary.
+  1. Everybody can become part of this foundation, henceforth “Flancia”. Upon enrolling, you get a number and an account in our system.
+  2. Each member of Flancia, henceforth “Flancian” or “Flancish”, can choose to partake in the advancement of the goals of the foundation as they see fit; whichever they agree with and care about enough to dedicate resources to (such as time and attention).
+  3. The first goal of Flancia is to build an Agora.
+    1. The first goal of the Agora is to improve on the state of the art in all fields of knowledge that can contribute to the enhancement of human collaboration and cooperation.
+    2. The second goal of the Agora is to advance all other facets of knowledge.
+    3. The ultimate goal of the Agora is to advance the rational will of its members, as expressed in the Agora through the best available toolset for rational and compassionate discussion and decision making.
+  4. The second goal of Flancia is to use whichever tools available to bring its members to the state of life they most prefer: happiness, ataraxia, enlightenment or any other state defined explicitly and rationally.
+  5. The third goal of Flancia is to bring all living entities to the same state, with each entity expressing their will within their capabilities. Starting with humans, and then with any other conscious beings that may join the group.
+  6. The fourth goal of Flancia is to keep itself current, adding and removing goals and entities as they most benefit its members and the best available set of rational tools: technology, philosophy and ethics. The constitution of Flancia, its Agora and any other of the foundation’s systems and entities can be amended when Flancians deem it necessary.
 
 # How I plan to dedicate my personal resources to the foundation
 
