@@ -1,0 +1,5 @@
+cache
+__pycache__
+.doit.db.db
+output
+state_data.json

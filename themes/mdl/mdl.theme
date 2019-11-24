@@ -1,0 +1,7 @@
+[Theme]
+engine = mako
+parent = base
+author = Ivan Teoh, Chris Warrick
+author_url = https://ivanteoh.com
+based_on = Material Design Lite <http://www.getmdl.io/>
+license = Apache v2
