@@ -1186,14 +1186,15 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # in the default template (base.tmpl).
 # (translatable)
 BODY_END = """
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134206959-1"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153218332-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-        gtag('config', 'UA-134206959-1');
-        </script>
+        gtag('config', 'UA-153218332-1');
+</script>
 """
 
 # The possibility to extract metadata from the filename by using a

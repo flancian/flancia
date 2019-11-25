@@ -74,4 +74,4 @@ If you choose to believe in it, Flancia exists and is a place with a constitutio
 
 Thank you for reading my manifesto; I hope you liked it. 
 
-I'll wait for you to join me here forever, hopefully awakened, and will truly be happy if you ever want to meet me there.
+I'll wait for you to join me forever, and will be happy if you ever want to meet me there.
