@@ -9,39 +9,49 @@
 -->
 
 
-*This chapter is in need of editing and rewriting. If you are just getting started with Flancia and would like to read something semi-cogent, stick to chapters 0-2 for now.*
+# Head
+This is the Agora in a nutshell: it is a social network tailored specifically to the goal of solving problems.
 
-*I have a more focused and detailed unpublished document which will probably replace this chapter soon.*
+Its users, as a group, take a (naive?) rational approach to problem solving:
 
-The premise sounds almost like a joke: what the world needs is a new social network. The internet and social networks are technologies we are just barely learning to live with, the recent cause or trigger of polarization and political escalation and Trump Being President. It doesn't sound at first like we should add another stick to that particular dumpster fire. But hear me out.
+  * For each problem in the set P of all problems:
+    * Describe it as thoroughly as possible.
+    * Maintain a set of known or argued possible solutions, S(P).
+  * For each solution in S(P):
+    * Describe it as thoroughly as possible.
+    * Maintain a set of resources (people, time, attention, money) needed to implement it, R(S).
 
-We need a place in the internet where we can discuss ideas in a constructive way. In particular, where we can discuss possible strategies to face the problems that humanity is facing. This is already happening, for sure; but is it happening somewhere on the internet where everybody can contribute? I don't think so. If the Agora exists already, please point the way -- I'd like to get there, and building it from scratch would be hard. The network of universities and institutes are the closest we have and I love them, but the Agora should be fully open and available to all over the internet, so every participating individual can contribute work and thought. Of course the whole internet could be an Agora; but the internet as a whole is chaotic and disorganized and thus its implicit Agora is entangled with places that are not constructive and not safe. There must be a better way.
+Individual users also *declare* their views on the state of the world explicitly: they define which subsets of P, S and R they *agree* with, in the sense that they believe they are feasible, true, interesting.
+
+Users that agree on their defined subsets can then efficiently collaborate on solutions as they become available by pooling of resources.
+
+We then apply some good old recursivity and seed the Agora with a problem: how to build itself. That is, how to build a system that allows participating users and entities to collaborate optimally in the face of adversity (such as biases, irrationality and even actual ill intent).
+
+The Agora should be built on a federated protocol to limit the harmfulness of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but different Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge.
+
+# Tail
+
+*I have a more focused and detailed unpublished document which will probably replace or complement this chapter soon.*
+
+I know the premise sounds almost like a joke: what the world needs is a new social network. The internet and social networks are technologies we are just barely learning to live with, and the recent cause of a lot of polarization and political escalation and Trump Being President[^trump]. It doesn't sound at first like we should add another stick to that particular dumpster fire. But hear me out.
+
+[^trump]: what if Twitter is already a decent Agora, and Trump just woke up to the fact that it's a superior meme transfer device sooner than others?
+
+We need a designated place in the internet where we can discuss ideas in a constructive way. In particular, where we can discuss possible strategies to face the problems that humanity is facing. This is already happening, for sure; but is it happening somewhere on the internet where everybody can contribute? I don't think so. If the Agora exists already, please point the way -- I'd like to get there, and building it from scratch would be hard. The network of universities and institutes are the closest we have and I love them, but the Agora should be fully open and available to all over the internet, so every participating individual can contribute work and thought. Of course the whole internet could be an Agora; but the internet as a whole is chaotic and disorganized and thus its implicit Agora is entangled with places that are not constructive and not safe. There must be a better way.
 
 Nick Bostrom has a [paper on existential risk](https://nickbostrom.com/papers/vulnerable.pdf) where he talks about a kind of lottery of ideas; humanity is constantly playing this game, the metaphor goes, and drawing ideas out of big lottery wheels of Science and Technology and Culture. Some of the balls in this wheel are colored white; these are good ideas. They contribute to human good, and we're glad we found them.
 
-There are also black balls, though. These are bad[^30]. They are things that, on the whole, don't produce anything good. Nuclear power *seemed* for a bit back there in the cold war like it was this; perhaps mutually assured destruction could have resulted in an apocalypsis. But it didn't! aren't we lucky? If (and it's a big if) things stay this way, we got away with something dangerous. Perhaps we can use the idea for whatever good it holds (clean-er power?), or perhaps we decide to bury it underground in a big vault of ideas (this one doesn't have to ever spin) that says Do Not Go There, Trust Us. For now, though, the idea might still turn out to be black; we could, perhaps, represent this situation as a grey ball of whatever shade we deem correct.
+There are also black balls, though. These are bad[^30]. They are things that, on the whole, produce enough bad to be existential risks to humanity. Nuclear power *seemed* to be this for a while; perhaps mutually assured destruction could have resulted in an apocalypse. But it didn't! Aren't we lucky? If (and it's a big if) things stay this way, we got away with playing with something dangerous. Perhaps we can use the idea for whatever good it holds (clean-er power?), or perhaps we decide to bury it underground in a big vault of ideas (this one doesn't have to ever spin again) that says Do Not Go There, Trust Us. For now, though, the idea might still turn out to be black; we could, perhaps, represent this situation as a grey ball of whatever shade we deem correct.
 
-[^30] White = good and black = bad is in the original paper.
+[^30]: White = good and black = bad is in the original paper. Now, an apology: I don't like the fact that our culture encodes bad things as black, it's associated with death, etc. I think associating black with badness is a bit unfair in a world that values so much being a particular kind of yellow. 
 
-Now, an apology: I don't like the fact that our culture encodes bad things as black, it's associated with death, etc. I think associating black with badness is horrible because of how terrible the world is right now for anyone at particular shade of yellow. It's for some seriously horrific set of reasons through history which I do not endorse, even though I clearly benefit from the privilege that I derive from the outcome (I'm the "right kind" of shade). Please just let me know that I'd like to fix it; I don't know how. I don't know of any other way of getting the point across as clearly, and it's the original metaphor of the author. If you think of a better way, please let me know. I'll drop the metaphor and I'll just call ideas/balls Good or Bad instead.
+We need a social network for discussing ideas. For talking about Bostrom's lottery urn, and what it has in it for us. *In the Agora, we discuss ideas and their shades and merit; we discuss, first and foremost, ethics. We need to talk openly how to move forward ethically as a group of humans, with respect to the technologies we create and find and the resources we have.*
 
-So: social networks might be Bad. Perhaps we weren't ready. Perhaps humanity will rip each other apart.
+But the Agora is a social network, like I said, and social networks are yet another technology: what if social networks are grey? If so, how dark is their own shade? I don't want to think they are black. I want to believe a better flow of information is always A Good Thing in the end. But we need to be cautious, and this is why I wrote this and you are reading it now.
 
-I hate to think that, though. I want to believe better flow of information is always Good in the end. Then perhaps I don't have to worry, and things will sort themselves out. But what if we should worry and think about the merit of this particular ball? It doesn't seem like things are stable. If we just started a fire, we can't just ignore it and assume it will just put itself out. What would that be like? People that support Trump and Brexit just hug the people that support Sanders and the world moves on? Yeah, no, let's talk about the bad cases. You know, just in case.
+I need your help.
 
-Social network wise, we have the problem that they all sucks. Which one sucks the least? Perhaps Twitter? It's about interchanging ideas. I like that. I mean, they are short... I really don't get it. It's a bit limiting. It's nice that it exists, but it's not enough.
-
-Facebook has longer stories. But Facebook, really? Come on. Next.
-
-Instagram is nice but can be harmful (people suffering when they see their contacts seem to have nicer lives than they do; or people actually acting a character, but not being honest about it and harming people that way). Also, images are necessary but not sufficient.
-
-We need a social network for ideas. For talking about Bostrom's lottery urn, and also about other Good things that we already have. Our culture -- if you're a sci fi fan, you can even think of it as Iain Banks' Culture; I don't know if he knew of Bostrom's idea as he died before the article was published but I think his Culture, like any utopia, is an exploration of this idea.
-
-So, you see, if the social network is about this it'd would essentially become a composite of utopias; every person sharing their ideas is, at least partly, describing their systems of values and wishes and hopes. These ideas describe, at least in part, a possible place: the place where that particular person is happy.
-
-What do you want? Yes, you! What do you want?
-
-Would you like other people to know what you want? Do you want to tell them? Are you willing to also hear?
+<!--
 
 If you're some sort of utilitarist: would you like to talk to others and have a stab at maximizing human happiness?
 
@@ -78,5 +88,6 @@ Caveat emptor: most of what I have here is far from "ready". But if I were writi
 Here I want to write down the ideas that I have, the beliefs I keep, the good among the wrong. I think you should consider doing the same. I want to find a system to build this Agora, make it work, make it be a force of good -- whatever definition of good the people in it at any given time hold; perhaps the participants can eventually all or almost all agree on a reasonable enough, serviceable definition of common good. Then perhaps work on a plan to get there.
 
 I started with a book, this weird book. You have to start somewhere, you know.
+-->
 
 [In Flancia there is no poverty](/poverty).

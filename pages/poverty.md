@@ -8,7 +8,23 @@
 .. type: text
 -->
 
-*This chapter is in need of editing and rewriting. If you are just getting started with Flancia and would like to read something semi-cogent, stick to chapters 0-2 for now.*
+# Head
+We bootstrap Universal Basic Income using the Agora with a set of simple rules:
+
+ * If you consider yourself under-privileged, you sign up to receive an income.
+ * If you consider yourself over-privileged, you sign up to donate an income.
+ * Incomes are recurring donations for a number of months.
+ * Optional virality rule: the person receiving the income (can|must) elect to forward N% of it to someone less privileged than them.
+
+The virality rule both pushes network growth and constructively exploits asymmetry of information: an under-privileged person is closer in the world to a more severely under-privileged person than the initial donor, so can more efficiently allocate the resources. This also empowers under-privileged people to also make ethical decisions.
+
+The Agora implements several defaults for matching donors and receivers, but participating users can probably hand-pick if desired.
+
+I am willing to bootstrap the system by donating 1000 USD for one year as a proof of concept. This could fund two one-year-long 500 USD monthly incomes.
+
+# Tail
+
+*This section is in need of editing and rewriting; I actually have never re-read it after writing it in a sort of stream of consciousness, so caveat emptor. If you are just getting started with Flancia and would like to read something semi-cogent, stick to chapters 0-2 for now.*
 
 There is a song by the Beatles, which I know but many people younger than me surely do not, called "[With a Little Help From My Friends](https://www.youtube.com/watch?v=0C58ttB2-Qg)". I used to listen to The Beatles a lot when I was a kid. My brother loved them, so he had all their records, and I benefited from that. I am privileged to have had that as a childhood experience. 
 
@@ -74,8 +90,8 @@ Really, how easy is to give your money away? Our society has *evolved* to make t
 
 If you don't do this, there's only two rational ways to justify it:
 
-1) You don't have enough. Well, you know, you should just put a number to enough then. The rest we covered already.
-2) You don't think it'll make a difference.
+  1. You don't have enough. Well, you know, you should just put a number to enough then. The rest we covered already.
+  2. You don't think it'll make a difference.
 
 I'm here to tell you we can make a difference. Because the idea has legs. It has another property: it creates network effects.
 
