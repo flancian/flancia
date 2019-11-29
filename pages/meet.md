@@ -18,7 +18,7 @@ But regardless of what thinking *is*, I believe it makes sense to take it seriou
 
 [^60]: I've been reading a lot about Buddhism. [I got into meditation (Vipassana) and all](/mine/meditation-for-programmers). This happened *while* I was writing Flancia -- whatever this thing you're reading is. I've now reached a point of empathy with the whole idea of Buddhism as I understand it that I need to *become* it, adopt it as part of my identity, declare to the world that I've found a religion that is worth following.
 
-I think most people could and probably should adopt some of the principles of secular Buddhism too. You can do it even while maintaining your religious beliefs, or the absence thereof. But I don't want to push any labels in the detriment of open conversation. Some time ago I didn't think I could ever belong to something religious-sounding like a Sangha, but read this: 
+I think most people could and probably should adopt some of the principles of secular Buddhism too. You can do it even while maintaining your religious beliefs, or the absence thereof, as secular Buddhism is a philosophy and not a religion. But I don't want to push any labels in the detriment of open conversation. Some time ago I didn't think I could ever belong to something religious-sounding like a Sangha, but read this: 
 
 > Sangha is a Sanskrit word used in many Indian languages, including Pali, meaning "association", "assembly", "company" or "community". It was historically used in a political context to denote a governing assembly in a republic or a kingdom.
 
