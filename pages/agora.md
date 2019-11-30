@@ -10,7 +10,7 @@
 
 
 # Head
-This is the Agora in a nutshell: it is a social network tailored specifically to the goal of solving problems.
+This is the Agora in a nutshell: it is a social network tailored specifically to the goal of solving problems. The problems to be solved are both those of its users and society at large.
 
 Its users, as a group, take a (naive?) rational approach to problem solving:
 
@@ -25,7 +25,9 @@ Individual users also *declare* their views on the state of the world explicitly
 
 Users that agree on their defined subsets can then efficiently collaborate on solutions as they become available by pooling of resources.
 
-We then apply some good old recursivity and seed the Agora with a problem: how to build itself. That is, how to build a system that allows participating users and entities to collaborate optimally in the face of adversity (such as biases, irrationality and even actual ill intent).
+We apply some good old recursivity and seed the Agora with the problem of how to build itself. That is, how to build a system that allows participating users and entities to collaborate optimally in the face of adversity (such as biases, irrationality and even actual ill intent)[^charity].
+
+[^charity]: To start with, discussion in the Agora should follow the tried and tested [Principle of Charity](https://en.wikipedia.org/wiki/Principle_of_charity).
 
 The Agora should be built on a federated protocol to limit the harmfulness of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but different Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge.
 
