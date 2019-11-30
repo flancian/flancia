@@ -14,8 +14,8 @@ I realized I've been beating around the bush but haven't got round to actually w
 
 I am agnostic. I do not believe we can (currently?) know the principle that put the universe in motion, if any.
 
-I consider myself a sort of secular Buddhist: I try to follow a [modified Eightfold Path](/mine/ethics). 
-I do not usually try to label myself, but I say I follow this Buddhist path to summarize: I agree with it to a great extent and it also gives a salient place to meditation, which [I practice](/mine/meditation-for-programmers), but I do not restrict myself to the principles of Buddhism. I am interested in all philosophy as a vehicle for the pursuit of knowledge and the reduction of suffering; I admire classical culture, although unfortunately it was built upon oppression and slavery (we need to do better), and appreciate Stoic and Epicurean thought. I am an admirer of science and culture. I believe in the enlightenment.
+I consider myself a sort of secular Buddhist: I try to follow a [modified Eightfold Path](link://slug/ethics). 
+I do not usually try to label myself, but I say I follow this Buddhist path to summarize: I agree with it to a great extent and it also gives a salient place to meditation, which [I practice](link://slug/meditation-for-programmers), but I do not restrict myself to the principles of Buddhism. I am interested in all philosophy as a vehicle for the pursuit of knowledge and the reduction of suffering; I admire classical culture, although unfortunately it was built upon oppression and slavery (we need to do better), and appreciate Stoic and Epicurean thought. I am an admirer of science and culture. I believe in the enlightenment.
 
 I think the purpose of humanity should be to thrive in peace, advancing knowledge through science and technology and culture, and using said knowledge to reduce and eventually eliminate the suffering of all living beings, starting with fellow humans.
 

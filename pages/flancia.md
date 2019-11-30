@@ -39,9 +39,9 @@ Welcome to Flancia! It is both a place and a draft. Not fully cogent, but honest
 6 -- [In Flancia we will one day meet](/meet)
 
 <span style="color:gray">
-N -- [(You](/others)
+M -- [Me](/mine)
 </span>
 
 <span style="color:gray">
-M -- [And me)](/mine)
+N -- [And others](/others)
 </span>
