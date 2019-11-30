@@ -8,12 +8,17 @@
 .. type: text
 -->
 
-Flancia is free in the GNU-approved meaning of the word, and of course comes without any warranty. Use at your own risk.
+Flancia is [free](https://github.com/flancian/), and of course comes without any warranty. Use at your own risk.
 
-It is also, of course, open source. This is where your stuff would be if you wanted to contribute to Flancia.
+Flancia currently consists of:
 
-It's just a static page for now because I haven't set it up otherwise. I'll do it if I ever get a pull request for this page (and move your stuff after if needed). I intend not to postpone *too* much making the repository public, even if people are not likely to use it.
+  * The root of a tree, or the website you're reading: [github](https://github.com/flancian/flancia).
+  * An empty repository for the [Agora](link://slug/agora): [github](https://github.com/flancian/agora).
+  * Bots:
+    * Virginia Woolf: [github](https://github.com/flancian/botginia).
 
-Or if you prefer just send me an email. That sounds easier to start with.
+Being open source, the content listed above need not be limited to what I produce. This is where your stuff would be listed if you contributed to Flancia.
+
+You can send me a Pull Request, an [email](1@flancia.org), or reach out on [Twitter](https://twitter.com/flancian). Up to you.
 
 ![A nice flan](/static/flan.jpg)
