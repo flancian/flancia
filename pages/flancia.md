@@ -10,13 +10,15 @@
 .. status:
 -->
 
-I always assumed that, when people dedicated books, they first wrote the book and then wrote the dedication. It would mean dedicating the book as a finished object, a concrete thing, something that one has finished and can fully offer.
+I always assumed that, when people dedicated books, they all first wrote the book and then wrote the dedication. It would mean dedicating the book as a finished object, a concrete thing, something that one has finished and can fully offer.
 
-Now I realize I'm not that kind of person, and I need to write its dedication half way. At the point in which I know where I'm going, but not whether I will ever get there.
+I've come to realize I'm not that kind of person, and I need to dedicate a draft. Whatever it is you're currently reading: a booklet, a place, a website; not even half done.
 
-Writing this half way means dedicating a set of ideas only; an aspiration. It is only appropriate, then, to dedicate ideas to ideas and not explicitly to people. Nouns in the vocative or the dative case.
+Writing this now means dedicating a set of ideas only; an aspiration. It is only appropriate, then, to dedicate ideas to ideas and not to individual people.
 
-To you, my readers; to my *friends*.
+To my friends. 
+
+To you.
 
 ---
 

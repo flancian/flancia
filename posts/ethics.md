@@ -28,4 +28,4 @@ I consider myself a secular Buddhist: I try to follow a modified Eightfold Path.
 
  - Right samadhi (Passaddhi; Ekaggata; sampasadana): practicing four stages of dhyāna ("meditation"), which includes samadhi proper in the second stage, and reinforces the development of the bojjhagā, culminating into upekkha (equanimity) and mindfulness. In the Theravada tradition and the Vipassana movement, this is interpreted as ekaggata, concentration or one-pointedness of the mind, and supplemented with Vipassana-meditation, which aims at insight.
 
-I'm a beginner (well, at everything really), but [I practice meditation](/mine/meditation-for-programmers), 
+I'm a beginner (at everything, really). [I practice meditation](/mine/meditation-for-programmers).
