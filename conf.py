@@ -1385,9 +1385,11 @@ NAVIGATION_LINKS = {
 	("/meta", "Meta"),
 	("/mine", "Mine"),
 	("/others", "Others"),
-        ("https://twitter.com/flancian", '➡️ twitter'),
-        ("https://webchat.freenode.net/#flancia", '➡️ irc'),
+	("/projects", "Projects"),
         ("https://github.com/flancian", '➡️ github'),
+        ("https://www.reddit.com/r/flancia", '➡️ reddit'),
+        ("https://twitter.com/flancian", '➡️ twitter'),
+        # ("https://webchat.freenode.net/#flancia", '➡️ irc'),
     ),
 }
 

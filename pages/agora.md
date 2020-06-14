@@ -8,6 +8,12 @@
 .. type: text
 -->
 
+# Status
+ * As of 2020-04-19, the best Agora implementation I know about is a combination of:
+   * Wikis, like [anagora.org](https://anagora.org).
+   * Reddit, like [flancia](https://reddit.com/flancia).
+   * Twitter, as used with [hashtags](https://twitter.com/hashtag/agora).
+   * A protocol, like [agora-protocol](https://docs.google.com/document/d/1B9mroFhyoRsGQofdMicIjOkkLZdha6bCC2D3bvwVNbc/edit).
 
 # Head
 This is the Agora in a nutshell: it is a social network tailored specifically to the goal of solving problems. The problems to be solved are both those of its users and society at large.

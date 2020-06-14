@@ -18,11 +18,9 @@ Writing this now means dedicating a set of ideas only; an aspiration. It is only
 
 To my friends. 
 
-To you.
-
 ---
 
-Welcome to Flancia! It is both a place and a draft. Not fully cogent, but honest. Feel free to play [hopscotch](https://en.wikipedia.org/wiki/Hopscotch_(Cortázar_novel)#"Table_of_Instructions"_and_structure).
+Welcome to Flancia! It is both a place and a draft. Please excuse my many mistakes. Feel free to play [hopscotch](https://en.wikipedia.org/wiki/Hopscotch_(Cortázar_novel)#"Table_of_Instructions"_and_structure).
 
 <span style="color:gray">
 0 -- [Meta](/meta)

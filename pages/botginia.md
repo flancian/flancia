@@ -13,7 +13,7 @@ I made a simple Twitter bot that posts lines from Virginia Woolf's works:
 
 I have long been a fan and her turns of phrase are just so beautiful. One of the best writers I've read.
 
-Unsure what the "right" cadence for posting would be. Currently set to run once a day, around 9PM CET.
+Unsure what the "right" cadence for posting would be. Currently set to run twice a day, around 12PM and 12AM CET.
 
 I'd like to eventually get her to be more sophisticated:
 

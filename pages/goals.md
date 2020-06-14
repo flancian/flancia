@@ -10,20 +10,24 @@
 .. status:
 -->
 
-Flancia will be an entity[^20] established in Switzerland with the following constitution[^201]:
+Flancia will be an entity[^20], perhaps established in Switzerland, with the following constitution[^201]:
 
-[^20]: A foundation, or perhaps a corporation; I am researching what the most appropriate entity would be. [Assuming foundation for now](https://www.cagi.ch/en/ngo/creation-transfer/creating-a-foundation.php).
+[^20]: Perhaps a foundation of sorts; I am researching what the most appropriate entity would be. [I hope it's not too hard or expensive?](https://www.cagi.ch/en/ngo/creation-transfer/creating-a-foundation.php).
 [^201]: You can comment inline and view translations (currently also available in Spanish) in the [Google Docs version](https://docs.google.com/document/d/1lf1wnxNsaZC04SFbWP46A8HMoRJLIpO9ZWw3VoMxoac/edit?usp=sharing)
 
-  1. Everybody can become part of this foundation, henceforth “Flancia”. Upon enrolling, you get a number and an account in our system.
-  2. Each member of Flancia, henceforth “Flancian” or “Flancish”, can choose to partake in the advancement of the goals of the entity as they see fit; whichever they agree with and care about enough to dedicate resources to (such as time and attention).
+  1. Everybody can become part of the project driven by this foundation, henceforth “Flancia”. Upon enrolling, you can choose to get an account in our system to keep your core identity separate when you interact with others. Or you can just bring your own.
+  2. Each member of Flancia, henceforth “Flancian” or “Flancish” (all silly names, nay, all silly concepts are optional), can choose to partake in the advancement of the goals of the entity as they see fit; whichever they agree with and care about enough to dedicate resources to (such as time and attention).
   3. The first goal of Flancia is to build an [Agora](link://slug/agora).
     1. The first goal of the Agora is to enable optimal communication, collaboration and cooperation.
     2. The second goal of the Agora is to advance all other domains of knowledge.
     3. The ultimate goal of the Agora is to advance the rational will of its members, as expressed in the Agora through the best available tool set for rational discussion and decision making.
-  4. The second goal of Flancia is to bring its members to the state of life they most prefer: happiness, ataraxia, eudaimonia, enlightenment or any other desirable state defined explicitly.
-  5. The third goal of Flancia is to bring all living entities to the same state, with each entity expressing their will within their capabilities. Starting with humans, and then with any other conscious beings that may join the group.
+  4. The second goal of Flancia is to bring its members to the state of life they most prefer individually: happiness, ataraxia, eudaimonia, enlightenment, awakening or any other desirable and desired state.
+  5. The third goal of Flancia is to bring all living entities to the their independently defined state, with each entity expressing their will within their capabilities. We start with our friends; our fellow humans. Think of [The Expanding Circle](https://en.wikipedia.org/wiki/The_Expanding_Circle): we keep our doors open.
   6. The fourth goal of Flancia is to keep itself current, adding and removing goals and entities as they most benefit its members and the best available set of rational tools: technology, philosophy and ethics. The constitution of Flancia, its Agora and any other of the foundation’s systems and entities can be amended when Flancians deem it necessary.
+
+Flancia should be a tight module, designed to be a compatible add-on for as many people as possible out there. Everybody can be a Flancian as long as they are willing to potentially collaborate on the stated shared goals.
+
+Our first step is to build and improve an Agora. We start with Twitter.
 
 # How I plan to dedicate my personal resources to the foundation
 
@@ -51,7 +55,7 @@ I live in Flancia until I die, pursuing in its confines some singular line of th
 [3]: link://slug/gwern
 
 # Except
-When I die, Flancians inherit Flancia. At least a stipend out of the foundation's assets and returns on investments, for however long they last. By default as of 2019 it should go to fund a "basic income" of sorts, with a 90-10 proportional virality rule. That and making reality optimal for enacting constitution of Flancia: building an utopia for its members first and then for humanity.
+When I die, Flancians inherit Flancia. Perhaps even get a stipend out of the foundation's assets and returns on investments, for however long they last. By default as of 2020 I think it should go to fund a "basic income" of sorts, with a 90-10 proportional virality rule. That and making reality optimal for enacting constitution of Flancia: building an utopia for its members first and then for humanity.
 
 We'll start with my definition of utopia, but mine is only a draft.
 
