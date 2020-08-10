@@ -1,7 +1,7 @@
 <!--
-.. title: Of others
-.. slug: others
-.. date: 2019-07-27 18:33:15 UTC+01:00
+.. title: Projects
+.. slug: projects
+.. date: 2020-01-28 22:33:15 UTC+01:00
 .. tags: meta
 .. link: 
 .. description: 

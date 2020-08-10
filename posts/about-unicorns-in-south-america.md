@@ -90,5 +90,5 @@ At some point in the process assisted writing may start to feel just like assist
  [6]: https://en.wikipedia.org/wiki/Exquisite_corpse
  [7]: https://en.wikipedia.org/wiki/Pride_and_Prejudice_and_Zombies
  [8]: https://en.wikipedia.org/wiki/The_Cyberiad
- [9]: https://flancia.org/posts/minsky/
+ [9]: link://slug/minsky
  [10]: http://approximatelycorrect.com/2019/02/17/openai-trains-language-model-mass-hysteria-ensues/

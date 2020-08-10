@@ -18,7 +18,7 @@ SITE_URL = "https://flancia.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://flancia.org/"
-BLOG_EMAIL = "1@flancia.org"
+BLOG_EMAIL = "0@flancia.org"
 BLOG_DESCRIPTION = "A blog, a book, a plan."  # (translatable)
 
 # Nikola is multilingual!
@@ -901,7 +901,7 @@ FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_re
 FEED_LINKS_APPEND_QUERY = False
 
 LICENSE = """
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Flancia</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:1@flancia.org" property="cc:attributionName" rel="cc:attributionURL">@flancian</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Flancia</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:0@flancia.org" property="cc:attributionName" rel="cc:attributionURL">@flancian</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 """
 
 # LICENSE = """
@@ -1387,7 +1387,7 @@ NAVIGATION_LINKS = {
 	("/others", "Others"),
 	("/projects", "Projects"),
         ("https://github.com/flancian", '➡️ github'),
-        ("https://www.reddit.com/r/flancia", '➡️ reddit'),
+        ("https://anagora.org/wiki/User:Flancia", '➡️ agora'),
         ("https://twitter.com/flancian", '➡️ twitter'),
         # ("https://webchat.freenode.net/#flancia", '➡️ irc'),
     ),

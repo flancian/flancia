@@ -9,11 +9,18 @@
 -->
 
 # Status
- * As of 2020-04-19, the best Agora implementation I know about is a combination of:
-   * Wikis, like [anagora.org](https://anagora.org).
-   * Reddit, like [flancia](https://reddit.com/flancia).
-   * Twitter, as used with [hashtags](https://twitter.com/hashtag/agora).
-   * A protocol, like [agora-protocol](https://docs.google.com/document/d/1B9mroFhyoRsGQofdMicIjOkkLZdha6bCC2D3bvwVNbc/edit).
+As of 2020-07, the Agora does not exist as a such -- not as a concrete tool you can sign up and use in one go. The closest to an Agora I know of can be assembled out of a combination of parts available on the internet:
+
+  * Wikis and other knowledge management tools:
+    * [anagora.org](https://anagora.org).
+    * [Roam Research](https://roamresearch.com/).
+  * Plus existing social networks:
+      * [Twitter](https://twitter.com/hashtag/agora).
+      * Forums such as [Effective Altruism](https://forum.effectivealtruism.org/) and [Less Wrong](https://www.lesswrong.com/).
+
+All this as used by users following an explicit constructive social contract, like [the anagora.org default](http://anagora.org/wiki/Agora) or [my own](https://anagora.org/wiki/How_to_become_a_Flancian).
+
+If you are interested in collaborating on building an Agora, please reach out.
 
 # Head
 This is the Agora in a nutshell: it is a social network tailored specifically to the goal of solving problems. The problems to be solved are both those of its users and society at large.
@@ -49,13 +56,13 @@ We need a designated place in the internet where we can discuss ideas in a const
 
 Nick Bostrom has a [paper on existential risk](https://nickbostrom.com/papers/vulnerable.pdf) where he talks about a kind of lottery of ideas; humanity is constantly playing this game, the metaphor goes, and drawing ideas out of big lottery wheels of Science and Technology and Culture. Some of the balls in this wheel are colored white; these are good ideas. They contribute to human good, and we're glad we found them.
 
-There are also black balls, though. These are bad[^30]. They are things that, on the whole, produce enough bad to be existential risks to humanity. Nuclear power *seemed* to be this for a while; perhaps mutually assured destruction could have resulted in an apocalypse. But it didn't! Aren't we lucky? If (and it's a big if) things stay this way, we got away with playing with something dangerous. Perhaps we can use the idea for whatever good it holds (clean-er power?), or perhaps we decide to bury it underground in a big vault of ideas (this one doesn't have to ever spin again) that says Do Not Go There, Trust Us. For now, though, the idea might still turn out to be black; we could, perhaps, represent this situation as a grey ball of whatever shade we deem correct.
+There are also black balls, though. These are bad[^30]. They are things that, on the whole, produce enough bad to be existential risks to humanity. Nuclear power *seemed* to be this for a while; perhaps mutually assured destruction could have resulted in an apocalypse. But it didn't! Aren't we lucky? If (and it's a big if) things stay this way, we got away with playing with something dangerous. Perhaps we can use the idea for whatever good it holds (cheap and relatively safe energy), or perhaps we decide to bury it underground in a big vault of ideas (this one doesn't have to ever spin again) that says Do Not Go There, Trust Us. For now, though, the idea might still turn out to be black; we could, perhaps, represent this situation as a grey ball of whatever shade we deem most likely.
 
-[^30]: White = good and black = bad is in the original paper. Now, an apology: I don't like the fact that our culture encodes bad things as black, it's associated with death, etc. I think associating black with badness is a bit unfair in a world that values so much being a particular kind of yellow. 
+[^30]: White = good and black = bad is in the original paper. Now, an apology: I don't like the fact that our culture encodes bad things as black, it's associated with death, etc. I think associating black with badness is a bit trite in a world that puts so much stock on being a particular kind of yellow.
 
-We need a social network for discussing ideas. For talking about Bostrom's lottery urn, and what it has in it for us. *In the Agora, we discuss ideas and their shades and merit; we discuss, first and foremost, ethics. We need to talk openly how to move forward ethically as a group of humans, with respect to the technologies we create and find and the resources we have.*
+We need a social network for discussing ideas. For talking about Bostrom's lottery urn, and what it has in it for us. In the Agora, we discuss ideas and their shades and merit; we discuss, first and foremost, ethics. We talk openly and clearly about how to best move forward as a society of humans, with the knowledge we've gotten and the resources we have.
 
-But the Agora is a social network, like I said, and social networks are yet another technology: what if social networks are grey? If so, how dark is their own shade? I don't want to think they are black. I want to believe a better flow of information is always A Good Thing in the end. But we need to be cautious, and this is why I wrote this and you are reading it now.
+What if social networks are grey? How dark is their shade? The high modernist in me wants to believe that the structured flow of information is more of a good thing than a bad thing. But we need to be cautious, and this is why I wrote this and you are reading it now.
 
 I need your help.
 

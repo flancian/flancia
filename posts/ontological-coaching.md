@@ -1,5 +1,5 @@
 <!--
-.. title: Ontological coaching
+.. title: Ontological coaching, or "Caramel City"
 .. slug: ontological-coaching
 .. date: 2019-03-22 22:35:55 UTC+01:00
 .. tags: fiction

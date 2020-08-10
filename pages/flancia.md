@@ -36,7 +36,7 @@ Welcome to Flancia! It is both a place and a draft. Please excuse my many mistak
 
 5 -- [In Flancia there is no privilege](/privilege)
 
-6 -- [In Flancia we will one day meet](/meet)
+6 -- [In Flancia we will one day meet](/one-day)
 
 <span style="color:gray">
 M -- [Me](/mine)
@@ -45,3 +45,5 @@ M -- [Me](/mine)
 <span style="color:gray">
 N -- [And others](/others)
 </span>
+
+K -- [(Projects)](/projects)

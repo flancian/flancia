@@ -10,9 +10,11 @@
 
 ![A nice flan](/static/flan.jpg)
 
+Hi! I am very glad to meet you. I am a [Flancian](https://anagora.org/wiki/User:Flancia).
+
 Consider this is an upload of my brain; I try to keep it honest. It is also just a blog of the billion or so around the internet; this one as likely to be abandoned or to disappear without a trace as any other (save, that is, for whatever trace it leaves in [archive.org](https://web.archive.org/web/*/flancia.org)). I like to think about the blog aspect of it as a [mine](/mine) -- after all this is where, taking a metaphor out of Greg Egan's excellent [Diaspora](https://www.goodreads.com/book/show/156785.Diaspora), I try to mine (hopefully) coherent thought out of the bedrock of randomness that my mind is constantly producing. Then I try to process whatever I find into intelligible writing.
 
-A lot of the stuff in here is about Flancia, a place. It is a place that doesn't exist and it is a part of my mind. It is, I like to think, a [utopia](https://en.wikipedia.org/wiki/Utopia) of sorts; but not everybody will agree. You, dear reader, may at times think it resembles a dystopia, or just a flavourless fantasy, and I respect your opinion; every untested idea has a probability of being *good* for a certain definition of the term, for a particular person or society, and at a time and place. I don't know if I'm right or I'm wrong in any and all of my ideas or assessments, be it morally or factually. I'm just putting it out there; thinking it through. You, the reader, must do your part by considering your own position against the ideas I present here[^objections].
+A lot of the stuff in here is about Flancia, a place. It is a place that doesn't exist and it is a part of my mind. It is, I like to think, a [eutopia](https://en.wikipedia.org/wiki/Eutopia) of sorts; but not everybody will agree. You, dear reader, may at times think it resembles a dystopia, or just a flavourless fantasy, and I respect your opinion; every untested idea has a probability of being *good* for a certain definition of the term, for a particular person or society, and at a time and place. I don't know if I'm right or I'm wrong in any and all of my ideas or assessments, be it morally or factually. I'm just putting it out there; thinking it through. You, the reader, must do your part by considering your own position against the ideas I present here[^objections].
 
 [^objections]: And, ideally and if you're willing, presenting your objections.
 

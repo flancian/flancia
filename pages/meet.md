@@ -1,6 +1,6 @@
 <!--
 .. title: In Flancia we will one day meet
-.. slug: meet
+.. slug: one-day
 .. date: 2019-10-11 16:22:39 UTC+02:00
 .. tags: 
 .. category: 
