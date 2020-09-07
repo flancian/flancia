@@ -97,4 +97,4 @@ Finally, you might observe that I've set up this system in opposition to capital
 
 I'm showing you my path of fancy from the present day to a system in which a series of people, bound only by ideas, could reach financial independence across time by way of cooperation, bound by ideas rather than family ties. I am attracted to this idea because I believe in a future world where everybody could dedicate themselves to exploring ideas and realizing their full potential in their ample free time. It doesn't exist now, but it could someday, and thinking about ways of getting there interests me. I intend to make this just the beginning.
 
-[In Flancia we will one day meet](/meet).
+[In Flancia we will one day meet](/one-day).
