@@ -9,23 +9,29 @@
 -->
 
 # Status
-As of 2020-07, the Agora does not exist as a such -- not as a concrete tool you can sign up and use in one go. The closest to an Agora I know of can be assembled out of a combination of parts available on the internet:
+As of 2020-10-17, the Agora barely exists as a such -- it is not a single concrete tool but rather many which you can use in tandem following a convention, which I have provisionally named [Agora Protocol](https://flancia.org/go/agora-protocol).
 
-  * Wikis and other knowledge management tools:
-    * [anagora.org](https://anagora.org).
-    * [Roam Research](https://roamresearch.com/).
-  * Plus existing social networks:
-      * [Twitter](https://twitter.com/hashtag/agora).
+The best Agora I know of can be assembled out of a combination of parts available on the internet, mostly for free:
+
+  * Knowledge management tools used cooperatively for the purpose of building a [distributed knowledge graph](https://flancia.org/go/distributed-knowledge-graph), following the aforementioned based on [[lazily evaluated wikilinks]]:
+    * [Roam Research](https://roamresearch.com/) or [Roam Likes](https://flancia.org/go/roam-likes), the latter being preferable (to me) due to mostly being free open source, and as such optimally conducive to an inclusive, distributed approach.
+  * Social networks and the internet as we have them, annotated using cross-platform tools like Hypothesis and the aforementioned ones. In particular, perhaps:
+      * [Twitter](https://twitter.com/an_agora).
       * Forums such as [Effective Altruism](https://forum.effectivealtruism.org/) and [Less Wrong](https://www.lesswrong.com/).
+      * [Our own Agora implementation, centered around distributed note taking](https://flancia.org/go/agora).
 
-All this as used by users following an explicit constructive social contract, like [the anagora.org default](http://anagora.org/wiki/Agora) or [my own](https://anagora.org/wiki/How_to_become_a_Flancian).
+All this as used by users following an explicit constructive social contract, like [the anagora.org default](http://anagora.org/wiki/Agora) or [my own, as an example](https://anagora.org/wiki/How_to_become_a_Flancian).
 
-If you are interested in collaborating on building an Agora, please reach out.
+If you are interested in collaborating on building an Agora, please reach out or peruse the [Git repository](https://flancia.org/go/agora-git).
+
+See also: <https://flancia.org/go/agora-howto>, <https://threadreaderapp.com/thread/1322619094563258370.html>.
 
 # Head
-This is the Agora in a nutshell: it is a social network tailored specifically to the goal of solving problems. The problems to be solved are both those of its users and society at large.
+You can think of the Agora as a convention based social network; an optional, user-controlled annotation layer that can be applied over any internet platform which supports user-generated content. 
 
-Its users, as a group, take a (naive?) rational approach to problem solving:
+I think one of the best possible uses for such a network would be to use it to pro-socially maintain a [distributed knowledge graph](https://flancia.org/go/distributed-knowledge-graph) tailored specifically to the goal of solving problems: those of its users and society at large.
+
+Its users, as a cooperative group, could by default take a naive but rational approach to problem solving:
 
   * For each problem in the set P of all problems:
     * Describe it as thoroughly as possible.
@@ -34,7 +40,7 @@ Its users, as a group, take a (naive?) rational approach to problem solving:
     * Describe it as thoroughly as possible.
     * Maintain a set of resources (people, time, attention, money) needed to implement it, R(S).
 
-Individual users also *declare* their views on the state of the world explicitly: they define which subsets of P, S and R they *agree* with, in the sense that they believe they are feasible, true, interesting.
+Individual users could also *declare* their views on the state of the world explicitly: they define which subsets of P, S and R they *agree* with, in the sense that they believe they are feasible, true, interesting.
 
 Users that agree on their defined subsets can then efficiently collaborate on solutions as they become available by pooling of resources.
 
