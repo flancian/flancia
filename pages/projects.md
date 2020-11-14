@@ -13,9 +13,10 @@ Flancia is [free](https://github.com/flancian/), and of course comes without any
 Flancia currently consists of:
 
   * The root of a tree, or the website you're reading: [github](https://github.com/flancian/flancia).
-  * An empty repository for the [Agora](link://slug/agora): [github](https://github.com/flancian/agora).
-  * Characters:
-    * [Botginia Woolf](/botginia): [github](https://github.com/flancian/botginia).
+  * The [Agora](link://slug/agora), a distributed social knowledge graph: [github](https://github.com/flancian/agora).
+      * The [Agora Server](https://anagora.org), a site that lets you interact with the Agora: [github](https://github.com/flancian/agora-server).
+  * Other projects
+    * [Botginia Woolf](/botginia), a twitter bot: [github](https://github.com/flancian/botginia).
 
 Being open source, the content listed above need not be limited to what I produce. This is where your stuff would be listed if you contributed to Flancia.
 

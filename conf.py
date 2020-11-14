@@ -1384,11 +1384,11 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
 	("/meta", "Meta"),
 	("/mine", "Mine"),
-	("/others", "Others"),
 	("/projects", "Projects"),
         ("https://github.com/flancian", '➡️ github'),
-        ("https://anagora.org/wiki/User:Flancia", '➡️ agora'),
+        ("https://anagora.org/@flancian", '➡️ agora'),
         ("https://twitter.com/flancian", '➡️ twitter'),
+        ("https://flancia.org/go/mastodon", '➡️ mastodon'),
         # ("https://webchat.freenode.net/#flancia", '➡️ irc'),
     ),
 }
