@@ -43,8 +43,6 @@ My current plan is to study, write, and research whatever I find interesting and
 
 Whatever of interest I do find while I research material and possible solutions, I'll try to write down (it's work, and I'm lazy, but I guess I have to if I'm to get anywhere interesting: my memory is not great, remember). I know fully well that most of what I will produce will be (initially?) close to trivial, given that I have a day job and I'm not an experienced researcher, but I hope to become better with practice. Some day cross the threshold in Sturgeon's law. Even if I never get there I can hope to inspire others to best me. I'd be content with that life -- some potential impact, albeit unlikely; some slight progress, once in a while. Life is a long game of probabilities.
 
-Hey, I know this sounds crazy. But I think it's perfectly rational to be fully honest and explicit about what I want to do. I don't believe in irony that much anymore. Irony, I've come to believe, is a hindrance in human communication. So Flancia must be a place that is kept as honest as possible, and as its first member I must lead by example.
-
 If Flancia fails, I can always go back to work and try to donate more to [Effective Altruism][2] directly, which I would probably be doing while working on Flancia anyway (Effective Altruism will be one of the first non-human nodes in the Agora, and the first with an edge meaning "resource dedication" in its graph).
 
 By the way: you can save a life with around 3000 USD nowadays; I did not know that until recently. This is a mind boggling amount in a lot of the world, but not an overly significant sum for a lot of privileged people (like me) in a lot of developed countries. It's the price of about six iPhones (on the cheaper side), and in 2018 Apple sold about *65 million* of them overall. If you think it's offensive that smartphones and human lives can even be discussed on the same basis in any dimension, I'm with you. But the numbers are there, and we don't talk about them enough. So... yeah, consider donating if you can. There are charities that work and you can help them. You don't even need to do the research yourself.
@@ -67,7 +65,9 @@ Flancia should be fair and thus its members should constantly dedicate some of t
 
 You can leave anytime if you think Flancia is no longer your thing. No hard feelings!  
 
-[In Flancia there is an Agora](/agora).
+Finally: I know a lot of this might sound a bit far out or perhaps even crazy. But I think it's perfectly rational to be fully honest and explicit about what I want to do. I don't believe in irony that much anymore. Irony, I've come to believe, is a hindrance in human communication.
+
+I must now tell you that [in Flancia there is an Agora](/agora).
 
 <!--
 # Objections

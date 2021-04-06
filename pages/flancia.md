@@ -39,11 +39,8 @@ Welcome to Flancia! It is both a place and a draft. Please excuse my many mistak
 6 -- [In Flancia we will one day meet](/one-day)
 
 <span style="color:gray">
-M -- [Me](/mine)
+M -- [(The mine)](/mine)
 </span>
 
-<span style="color:gray">
-N -- [And others](/others)
-</span>
 
 K -- [(Projects)](/projects)
