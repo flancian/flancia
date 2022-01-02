@@ -9,20 +9,18 @@
 -->
 
 # Status
-As of 2020-10-17, the Agora barely exists as a such -- it is not a single concrete tool but rather many which you can use in tandem following a convention, which I have provisionally named [Agora Protocol](https://flancia.org/go/agora-protocol).
 
-The best Agora I know of can be assembled out of a combination of parts available on the internet, mostly for free:
+- This document was mostly written in 2018. The Agora was then just a thought experiment. It has since grown to be a living project.
+- As late as 2020-10-17, the Agora barely existed as a concrete implementation -- it was not a single tool but rather many which you could use in tandem following a convention, which I provisionally named [Agora Protocol](https://flancia.org/go/agora-protocol).
+- As of 2022-01-02, a reference Agora is online on https://anagora.org. Using terminology gained and derived in the last three years (with the help of the Agora community!), I can now describe it as a [[knowledge commons]].
 
-  * Knowledge management tools used cooperatively for the purpose of building a [distributed knowledge graph](https://flancia.org/go/distributed-knowledge-graph), following the aforementioned based on [[lazily evaluated wikilinks]]:
-    * [Roam Research](https://roamresearch.com/) or [Roam Likes](https://flancia.org/go/roam-likes), the latter being preferable (to me) due to mostly being free open source, and as such optimally conducive to an inclusive, distributed approach.
-  * Social networks and the internet as we have them, annotated using cross-platform tools like Hypothesis and the aforementioned ones. In particular, perhaps:
-      * [Twitter](https://twitter.com/an_agora).
-      * Forums such as [Effective Altruism](https://forum.effectivealtruism.org/) and [Less Wrong](https://www.lesswrong.com/).
-      * [Our own Agora implementation, centered around distributed note taking](https://flancia.org/go/agora).
+Regardless of implementation details, an Agora can be assembled out of off-the-shelf parts available on the internet, mostly for free:
 
-All this as used by users following an explicit constructive social contract, like [the anagora.org default](http://anagora.org/wiki/Agora) or [my own, as an example](https://anagora.org/wiki/How_to_become_a_Flancian).
+- Knowledge management tools used for the purpose of building a [distributed knowledge graph](https://flancia.org/go/distributed-knowledge-graph), following the aforementioned convention based on lazily evaluated [[wikilinks]]. See https://anagora.org/agora-editor for a review of some of the tools in this space, or [Roam Likes](https://flancia.org/go/roam-likes) for an older take.
+- Social networks and the constructive bits of the internet as we have them, annotated and enriched using open tools and standards.
+- An explicit constructive social contract. For reference you can consult [the anagora.org default](https://anagora.org/CONTRACT).
 
-If you are interested in collaborating on building an Agora, please reach out or peruse the [Git repository](https://flancia.org/go/agora-git).
+If you are interested in collaborating on building Agoras or similar constructive spaces, please reach out or peruse the [Git repository](https://flancia.org/go/agora-git).
 
 See also: <https://flancia.org/go/agora-howto>, <https://threadreaderapp.com/thread/1322619094563258370.html>.
 
