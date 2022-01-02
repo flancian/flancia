@@ -30,7 +30,7 @@ When we choose to do something, we choose ethically. We are not choosing all the
 
 I'll be honest: I saw all this during meditation, and I saw it to be true, and I had to tell the world about it. This is why I wrote this, reader; this is why I dedicated this book to you. I offer you this book and my friendship; if you choose to accept it, we could share a Sangha. I call mine Flancia, but you do not have to join mine; you can invite me to yours, and call it whatever you want.
 
-Buddhism is about getting people to known themselves better first, then to understand each other better; it can be about solving things, about getting along. Buddhism doesn't care about your religion; it is a philosophy and a set of ethics. Buddhism is an add-on, and you should think about it. It has a lot of advantages.
+Buddhism is about getting people to know themselves better first, then to understand each other better; it can be about solving things, about getting along. Buddhism doesn't care about your religion; it is a philosophy and a set of ethics. Buddhism is an add-on, and you should think about it. It has a lot of advantages.
 
 Buddhism thinks that we should all get along. Look it up, it's there. Can you believe in that? I can.
 
