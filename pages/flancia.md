@@ -24,7 +24,7 @@ May be you happy.
 
 ---
 
-Flancia is a work of speculative fiction and associated practice in the space of [protopias](https://flancia.org/protopias). It is by its very nature an eternal draft. Please excuse the many mistakes. 
+Flancia is a work of speculative fiction and associated practice in the space of [protopian thinking](https://anagora.org/protopian-thinking). It is by its very nature an eternal draft. Please excuse the many mistakes. 
 
 <em>Things may get weirder before they get better :)</em> 
 
@@ -34,9 +34,9 @@ Feel free to play [hopscotch](https://anagora.org/hopscotch)!
 0 -- [Meta](/meta), or About Us.
 </span>
 
-1 -- [Manifesto](/manifesto), or [Flancian](https://anagora.org/@flancian).
+1 -- [Manifesto](/manifesto), or [Flancia!](https://anagora.org/flancia).
 
-2 -- [In Flancia there is an Agora](/agora), or [Building Bridges](https://anagora.org/building-bridges).
+2 -- [In Flancia there is an Agora](/agora).
 
 3 -- [In Flancia there is no poverty](/poverty).
 
@@ -46,7 +46,9 @@ Feel free to play [hopscotch](https://anagora.org/hopscotch)!
 
 6 -- [In Flancia we share clear goals](/goals).
 
-7 -- [In Flancia there is a commons](/commons), or an [Open Letter to an Open Society](https://anagora.org/open-letter-to-an-open-society).
+7 -- [In Flancia there are no walled gardens](/gardens), or [Building Bridges](https://anagora.org/building-bridges).
+
+8 -- [In Flancia there are many commons](/commons), or an [Open Letter to an Open Society](https://anagora.org/open-letter-to-an-open-society).
 
 <span style="color:gray">
 M -- [(The mine)](/mine)
