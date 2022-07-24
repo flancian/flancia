@@ -1,5 +1,5 @@
 <!--
-.. title: Flancia!
+.. title: Welcome to Flancia!
 .. slug: index
 .. date: 2019-07-20 01:02:07 UTC+02:00
 .. tags:
@@ -10,31 +10,27 @@
 .. status:
 -->
 
-Welcome to Flancia! 
+I always assumed that, when people dedicated their work, they all first finished the thing and then wrote the dedication. That would mean dedicating the (say) [book](https://anagora.org/book) as a finished object, something concrete that one has compiled or created and can then be offered with few reservations.
 
-I always assumed that, when people dedicated books and things, they all first finished the thing and then wrote the dedication. That would mean dedicating the (say) [book](https://anagora.org/book) as a finished object, something concrete that one has created or built and can offer without reservations.
+Belatedly I've come to realize I'm not that kind of person, so I find myself dedicating a draft instead. Writing these lines as I write them now means dedicating a set of ideas first, and my clumsy implementation of these ideas second -- the latter amounting currently to little more than well meaning aspirations. 
 
-Belatedly I've come to realize I'm not that kind of person, or perhaps I just don't get to live that kind of life; so I find myself dedicating a draft instead. Whatever this thing is, containing these lines you're currently reading.
+It seems appropriate, then, to dedicate this fuzzy set of ideas and aspirations to a fuzzily defined group instead of a concrete list of individuals.
 
-Writing these lines now means dedicating a set of ideas first, and an implementation second; the latter being maybe just an aspiration. It seems only appropriate, then, to dedicate a set of ideas to a set instead of individuals.
+To my <em>[friends](https://anagora.org/friends).</em>
 
-To my [friends](https://anagora.org/friends)! 
-
-May be you happy.
+May you be happy!
 
 ---
 
-Flancia is a work of speculative fiction and associated practice in the space of [protopian thinking](https://anagora.org/protopian-thinking). It is by its very nature an eternal draft. Please excuse the many mistakes. 
-
-<em>Things may get weirder before they get better :)</em> 
+Flancia is a work of speculative fiction and associated praxis in the space of [protopias](https://anagora.org/protopia). It is by its very nature an eternal draft. Please excuse the many mistakes. 
 
 Feel free to play [hopscotch](https://anagora.org/hopscotch)!
 
 <span style="color:gray">
-0 -- [Meta](/meta), or About Us.
+0 -- [Meta](/meta).
 </span>
 
-1 -- [Manifesto](/manifesto), or [Flancia!](https://anagora.org/flancia).
+1 -- [Manifesto](/manifesto), or towards [Flancia](https://anagora.org/flancia).
 
 2 -- [In Flancia there is an Agora](/agora).
 
@@ -42,20 +38,24 @@ Feel free to play [hopscotch](https://anagora.org/hopscotch)!
 
 4 -- [In Flancia there is no privilege](/privilege).
 
-5 -- [In Flancia we will meet](/one-day).
+5 -- [In Flancia we will one day meet](/one-day).
 
 6 -- [In Flancia we share clear goals](/goals).
 
-7 -- [In Flancia there are no walled gardens](/gardens), or [Building Bridges](https://anagora.org/building-bridges).
+7 -- [Building Bridges](https://anagora.org/building-bridges).
 
-8 -- [In Flancia there are many commons](/commons), or an [Open Letter to an Open Society](https://anagora.org/open-letter-to-an-open-society).
+8 -- [An Open Letter to an Open Society](https://anagora.org/open-letter-to-an-open-society).
 
 <span style="color:gray">
-M -- [(The mine)](/mine)
+m -- [(The mine)](/mine)
 </span>
 
-K -- [(Projects)](/projects)
+<span style="color:gray">
+n -- [(Projects)](/projects)
+</span>
 
-L -- [(An Agora)](https://anagora.org)
+---
+
+Look, [an Agora](https://anagora.org)!
 
 <iframe src="https://anagora.org" width="1000px" height="800px"></iframe>
