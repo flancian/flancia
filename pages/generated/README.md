@@ -1,0 +1,1 @@
+- This directory contains generated files. If you edit these, you can expect them to eventually be clobbered.

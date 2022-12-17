@@ -1,6 +1,6 @@
-all: book blog
+all: book blog deploy
 
-blog: build deploy
+blog: build 
 
 build:
 	nikola build
@@ -8,13 +8,16 @@ build:
 deploy:
 	nikola deploy
 
-website:
+dorcas:
 	nikola deploy dorcas
 
 book:
-	markdown-pp flancia.mdpp -o book.md
-	pandoc book.md -o flancia.docx
-	mv book.md book.md.generated
+	mkdir -p generated
+	markdown-pp book.mdpp -o book.md
+	pandoc book.md -o flancia-book.docx
+	pandoc book.md -o flancia-book.pdf
+	mv book.md generated/book.md.generated
+	mv flancia-book.* generated/
 
 clean:
-	rm book.md flancia.docx
+	rm book.md.generated flancia.docx
