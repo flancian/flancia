@@ -3,10 +3,10 @@ all: book blog
 blog: build deploy
 
 build:
-	nb	
+	nikola build
 
 deploy:
-	nd
+	nikola deploy
 
 book:
 	markdown-pp flancia.mdpp -o book.md
