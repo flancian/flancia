@@ -1,4 +1,4 @@
-all: book blog
+all: clean blog book
 
 blog: build deploy
 
