@@ -1,16 +1,19 @@
 # Flancia
+
 Repository for the writing and media in https://flancia.org.
 
 Flancia by @flancian is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
-## Agora
+# Installation
 
-In Flancia there is an Agora, and Flancia is in the Agora. See https://anagora.org, https://anagora.org/flancia.
+This uses [[Nikola]] to generate https://flancia.org and [[markdown-pp]] to generate a book with selections from the site.
 
-# Instalation
+$ pip install nikola MarkdownPP
 
-This uses [[markdown-pp]].
+Then run [[make]] to make both.
 
-$ pip install MarkdownPP
+# Agora
 
-Then run [[make]].
+In Flancia there is an Agora, and Flancia is in the Agora :) 
+
+See https://anagora.org, https://anagora.org/flancia for more.

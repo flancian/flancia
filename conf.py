@@ -612,8 +612,13 @@ REDIRECTIONS = []
 # named `default` will be executed.  You can use as many presets
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {
-    'default': [
+    # For use in dorcas proper, the OG.
+    'local': [
         "rsync -avh -O --delete output/ /var/www/blog/",
+    ],
+    # Elsewhere
+    'default': [
+        "rsync -avh -O --delete output/ perseguidor@dorcas:/var/www/blog/",
     ]
 }
 
