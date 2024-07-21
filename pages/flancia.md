@@ -27,31 +27,33 @@ Flancia is a work of speculative fiction and associated praxis in the space of [
 Feel free to play [hopscotch](https://anagora.org/hopscotch)!
 
 <span style="color:gray">
-0 -- [Meta](/meta).
+0 -- [Meta](/meta)
 </span>
 
-1 -- [Manifesto](/manifesto), or towards [Flancia](https://anagora.org/flancia).
+1 -- [Manifesto](/manifesto), or towards [Flancia](https://anagora.org/flancia)
 
-2 -- [In Flancia there is an Agora](/agora).
+2 -- [In Flancia there is an Agora](/agora)
 
-3 -- [In Flancia there is no poverty](/poverty).
+3 -- [In Flancia there is no poverty](/poverty)
 
-4 -- [In Flancia there is no privilege](/privilege).
+4 -- [In Flancia there is no privilege](/privilege)
 
-5 -- [In Flancia we will one day meet](/one-day).
+5 -- [In Flancia we will one day meet](/one-day)
 
-6 -- [In Flancia we share clear goals](/goals).
+6 -- [In Flancia we share clear goals](/goals)
 
-7 -- On [Building Bridges](https://anagora.org/building-bridges).
+7 -- On [Building Bridges](https://anagora.org/building-bridges)
 
-8 -- [An Open Letter to the Agora](https://anagora.org/open-letter-to-the-agora).
+8 -- [An Open Letter to the Agora](https://anagora.org/open-letter-to-the-agora)
+
+9 -- [Flancia homes](/home) 
 
 <span style="color:gray">
-m -- [(The mine)](/mine)
+m -- You can also see [(the mine)](/mine) (as I call my old blog)
 </span>
 
 <span style="color:gray">
-n -- [(Projects)](/projects)
+n -- And a list of other [(Projects)](/projects)
 </span>
 
 <span style="color:gray">
@@ -64,10 +66,3 @@ Look, [an Agora](https://anagora.org)!
 
 <iframe src="https://anagora.org" width="1000px" height="800px"></iframe>
 
----
-
-<! -- 
-
-9 -- [Flancia home](/home). 
-
--->
