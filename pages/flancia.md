@@ -42,22 +42,20 @@ Feel free to play [hopscotch](https://anagora.org/hopscotch)!
 
 6 -- [In Flancia we share clear goals](/goals)
 
+<!--
 7 -- On [Building Bridges](https://anagora.org/building-bridges)
+-->
 
-8 -- [An Open Letter to the Agora](https://anagora.org/open-letter-to-the-agora)
+7 -- [Open Letter to the Agora](https://anagora.org/open-letter-to-the-agora)
 
-9 -- [Flancia homes](/home) 
-
-<span style="color:gray">
-m -- You can also see [(the mine)](/mine) (as I call my old blog)
-</span>
+8 -- [In Flancia we will try to build](/homes) 
 
 <span style="color:gray">
-n -- And a list of other [(Projects)](/projects)
-</span>
+9 -- You can also visit [the mines](/mine) (as I call my old blog)
 
-<span style="color:gray">
-o -- Consider joining [(Flancia Meet)](/meet)!
+10 -- See a list of other [Projects](/projects)
+
+11 -- Consider joining [Flancia Meet](/meet) some day!
 </span>
 
 ---
