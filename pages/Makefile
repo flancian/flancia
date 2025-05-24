@@ -4,16 +4,16 @@ blog: build
 
 build:
 	echo "this Makefile assumes you have [[uv]] installed."
-	uvx nikola build
+	uv run nikola build
 
 deploy:
-	uvx nikola deploy
+	uv run nikola deploy
 
 dorcas:
-	uvx nikola deploy dorcas
+	uv run nikola deploy dorcas
 
 paramita:
-	uvx nikola deploy local
+	uv run nikola deploy local
 
 book:
 	mkdir -p generated
