@@ -8,19 +8,19 @@
 .. type: text
 -->
 
-Flancia is [free](https://github.com/flancian/), and of course comes without any warranty. Use at your own risk.
+Flancia is [free](https://github.com/flancian/), and of course comes without any warranty. Use at your own risk, and for good.
 
 Flancia currently consists of:
 
   * The root of a tree, or the website you're reading: [github](https://github.com/flancian/flancia).
   * The [Agora](link://slug/agora), a distributed social knowledge graph: [github](https://github.com/flancian/agora).
       * The [Agora Server](https://anagora.org), a site that lets you interact with the Agora: [github](https://github.com/flancian/agora-server).
-  * Other projects
-    * [Botginia Woolf](/botginia), a twitter bot: [github](https://github.com/flancian/botginia).
+      * The [Agora Bridge](https://anagora.org), a set of tools to import information into the Agora: [github](https://github.com/flancian/agora-server).
+  * Related efforts like [Flancia home](/homes).
 
-Being open source, the content listed above need not be limited to what I produce. This is where your stuff would be listed if you contributed to Flancia.
+Being open source, the projects listed above need not be limited to what I produce. This is where your stuff would be listed if you contributed to Flancia.
 
-You can send me a Pull Request, an [email](mailto:0@flancia.org), or reach out on [Twitter](https://twitter.com/flancian).
+You can send me a Pull Request, an [email](mailto:0@flancia.org), or reach out on the [Fediverse](https://social.coop/@flancian).
 
 Thank you for reading!
 
