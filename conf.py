@@ -614,7 +614,7 @@ REDIRECTIONS = []
 DEPLOY_COMMANDS = {
     # For use in dorcas proper, the OG.
     'local': [
-        "rsync -avh -O --delete output/ /var/www/blog/",
+        "rsync -avh -O --delete output/ /var/www/flancia.org/",
     ],
     # Elsewhere
     'default': [

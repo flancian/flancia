@@ -3,13 +3,17 @@ all: clean blog deploy  # book
 blog: build 
 
 build:
-	nikola build
+	echo "this Makefile assumes you have [[uv]] installed."
+	uvx nikola build
 
 deploy:
-	nikola deploy
+	uvx nikola deploy
 
 dorcas:
-	nikola deploy dorcas
+	uvx nikola deploy dorcas
+
+paramita:
+	uvx nikola deploy local
 
 book:
 	mkdir -p generated

@@ -1,2 +1,2 @@
 all:
-	(cd pages && make)
+	(cd pages && make paramita)
